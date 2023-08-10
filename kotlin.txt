@@ -1,0 +1,3 @@
+Este documento se llama kotlin pero no es código de kotlin
+Mi usuario es DianaMileDev pero no estoy trabajando desde el, porque en este equipo tengo configurado git con la cuenta de mi esposo y por eso estoy trabajando con el git y el github de él
+Mi correo es diana_hernandez@soy.sena.edu.co
